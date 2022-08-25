@@ -1,2 +1,2 @@
 # [Publications in ICLR 2020](https://iclr.cc/virtual_2020/papers.html?filter=keywords)
-- [Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai20/OS/README.md)
+- [Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning](https://github.com/qinmoelei/Demonstration-Literature/blob/main/conference/ICLR/2020/KDWW/README.md)
