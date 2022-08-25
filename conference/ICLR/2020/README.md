@@ -1,2 +1,5 @@
 # [Publications in ICLR 2020](https://iclr.cc/virtual_2020/papers.html?filter=keywords)
 - [Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning](https://github.com/qinmoelei/Demonstration-Literature/blob/main/conference/ICLR/2020/KDWW/README.md)
+- [Dream to Control: Learning Behaviors by Latent Imagination](https://github.com/qinmoelei/Demonstration-Literature/blob/main/conference/ICLR/2020/DC/README.md)
+- [Learning to Coordinate Manipulation Skills via Skill Behavior Diversification](https://github.com/qinmoelei/Demonstration-Literature/blob/main/conference/ICLR/2020/LCMS/README.md)
+- [Imitation Learning via Off-Policy Distribution Matching](https://github.com/qinmoelei/Demonstration-Literature/blob/main/conference/ICLR/2020/IL/README.md)
